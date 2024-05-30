@@ -1,0 +1,6 @@
+vBookSummary: Visar en sammanfattning av alla böcker i databasen med relevant info från flera tabeller, så som: Titel, Genre, Betyg, Format, Förlag, etc.
+vBookReviews: Visar alla recensioner för varje bok
+
+För en bokhandel skulle det vara användbart att kunna få fram all väsentlig information om en bok i en och samma vy, istället för att behöva extrahera all relevant information manuellt. Det inkluderas även en vy för att visa alla kundernas recensioner.
+
+En bokhandel behöver ett bra sätt att presentera sina böcker på, där all väsentlig information om varje bok finns sammanställd. Vyn 'vBookSummary' gör just detta.
